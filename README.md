@@ -50,3 +50,6 @@ cmake --build build -j
 - Linux only.
 - `pkexec` must be configured.
 - In production, add package signature verification and stronger policy checks.
+
+## Here's how it looks
+![Astreus Interface](resources/app-ui/astreus_interface.png)
