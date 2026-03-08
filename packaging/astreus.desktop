@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Astreus - Package Downloader
+Comment=Install and manage local .deb/.rpm packages
+Exec=astreus-package-downloader
+Icon=astreus
+Terminal=false
+Categories=System;Utility;

@@ -1,5 +1,7 @@
 /build/
 /dist/
+/AppDir/
+/tools/
 *.user
 *.swp
 .DS_Store
